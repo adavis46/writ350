@@ -82,7 +82,7 @@ week (7 days) to complete your revision. The new grade will replace the original
 
 ### Attendance Policy
 The university requires active participation during the first week of an online class in order to verify student attendance. 
-You must complete the first week�s activities to avoid being administratively withdrawn from the course.  
+You must complete the first week's activities to avoid being administratively withdrawn from the course.  
 
 Active and informed participation in the course is expected and required.  
  
