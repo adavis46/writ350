@@ -98,12 +98,12 @@ Students on scholarship who plan to miss 10% of the course should enroll in the 
 I am generally available online and f2f M-F during regular (Central Time) business hours. Outside of these times, the 
 fastest way to reach me is through email.
 
-For online meetings, we�ll use Google Hangouts Chat and Google Hangouts Meet (video conferencing).
+For online meetings, we'll use Google Hangouts Chat and Google Hangouts Meet (video conferencing).
 My Google handle is [addavis@go.olemiss.edu](mailto:addavis@olemiss.edu).  
 
 ### Academic Honesty
 All work that you submit under your name for credit at UM is assumed to be your original work. While teachers hope 
-and expect for you to incorporate the thinking of others in your work, you must credit others� work when you rely upon 
+and expect for you to incorporate the thinking of others in your work, you must credit others' work when you rely upon 
 it. In your written assignments, there are only three methods for properly importing the work of others: quotation, 
 paraphrase, and summary.
 
@@ -128,7 +128,7 @@ please contact the instructor.
 
 ### University Writing Centers
 Aside from one-on-one meetings with teachers during office hours, the best way to improve your writing is to work with 
-writing consultants at one of the University�s Writing Centers. On the Oxford campus, the writing center is on the 3rd 
+writing consultants at one of the University's Writing Centers. On the Oxford campus, the writing center is on the 3rd 
 floor of the Lamar building. Writing consultants will work with any student writer working on any project in any 
 discipline. To learn more about Writing Center locations, hours, scheduling and services, please go to the [Writing 
 Centers website](https://rhetoric.olemiss.edu/writing-centers/).
