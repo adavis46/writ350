@@ -22,11 +22,11 @@
 
 Visit [edblogs.olemiss.edu](http://edblogs.olemiss.edu) and create a blog for WRIT 350. Sign in with your MyOleMiss Username and password. Once you are signed in, click **Create Site** or **My Sites** >> **Add New** on the administrative toolbar to generate your new blog.
 
-![Create Site from administrative toolbar](createsite.png)
+![Create Site from administrative toolbar](assets/createsite.png)
 
 or   
 
-![Add new site from My Sites dashboard](mysites.png)
+![Add new site from My Sites dashboard](assets/mysites.png)
 
 For **site name**, use your **WebID** (example: addavis). If you already have a site with that name (probably your WRIT 101/102 Commonplace Book), use your **WebID** + **writ350** (example: addaviswrit350). 
 
