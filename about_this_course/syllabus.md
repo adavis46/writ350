@@ -58,7 +58,7 @@ communication
 | Major Projects    | Deadline     | Percentage |
 |-------------------|:-------------|:-----------|
 | **Digital Media Blog** You will design and curate a blog devoted to a specific issue, topic, or niche in  digital media studies and maintain it over the course of the semester. The blog will frame your other projects for the course and connect your work to the real world. | Continuous (11/30, 11:59pm) | 25% |
-|**Information Design**  Based on the issue, topic, or niche of your blog, you will develop an information campaign targeted at a specific audience. You will write a proposal memo, an  audience analysis report, an audience impact statement, and a critical review of a  peer�s design. The final deliverable of this project will be an infographic or interactive web text. |9/14, 11:59pm | 15%
+|**Information Design**  Based on the issue, topic, or niche of your blog, you will develop an information campaign targeted at a specific audience. You will write a proposal memo, an  audience analysis report, an audience impact statement, and a critical review of a  peer's design. The final deliverable of this project will be an infographic or interactive web text. |9/14, 11:59pm | 15%
 **Web Design, Development, and Usability** Based on the issue, topic, or niche of your blog, you will design a website or mobile app for specific users. You will write a proposal memo, develop a wireframe, and build a prototype of your website. Then, you will conduct a small-scale usability study of the design using your peers as testers. | 10/12, 11:59pm | 25%
 **Writing for Wikipedia** Based on the issue, topic, or niche of your blog, you team will propose, research, and write an original Wikipedia article (or significantly revise an existing one). You will create a project timetable, write a specifications memo, and submit article drafts and audience impact statements in addition to the article itself. | 11/16, 11:59pm | 15%
 **Final Presentation** The presentation is the culmination of your work on the issue, topic, or niche you  chose to study at the beginning of the semester. Depending on schedule and room availability, these presentations may be delivered live or recorded. | Week of 11/26 | 20%
@@ -107,11 +107,11 @@ and expect for you to incorporate the thinking of others in your work, you must 
 it. In your written assignments, there are only three methods for properly importing the work of others: quotation, 
 paraphrase, and summary.
 
-The penalty for plagiarism in Writing 350 may include an �F� on the assignment, an �F� in the course, suspension or 
+The penalty for plagiarism in Writing 350 may include an F on the assignment, an F in the course, suspension or 
 expulsion from the university, or other sanctions. Upon determining plagiarism, the instructor will notify the student and 
 the Chair of the Department of Writing and Rhetoric in writing. The instructor will also make a recommendation for the 
-penalty he/she finds most appropriate for the offense. Students may appeal the instructor�s finding and/or 
-recommended penalty by notifying the UM Academic Discipline Committee within 14 days of the instructor�s decision.
+penalty he/she finds most appropriate for the offense. Students may appeal the instructor's finding and/or 
+recommended penalty by notifying the UM Academic Discipline Committee within 14 days of the instructor's decision.
 The applicable full UM policy is ACA.AR.600.001 and should be consulted by any student concerned with plagiarism. 
 Broadly speaking, plagiarism is completely avoidable: if you are ever uncertain whether or not you are committing 
 plagiarism, ask your instructor.
@@ -135,7 +135,7 @@ Centers website](https://rhetoric.olemiss.edu/writing-centers/).
 
 ### Library Resources
 University Librarians are available to help you find and evaluate sources for your papers. Go to the library website and 
-click on �Ask A Librarian� for help via live chat, email, and phone. Librarians are available at the Reference Desk on first 
+click on **Ask A Librarian** for help via live chat, email, and phone. Librarians are available at the Reference Desk on first 
 floor in the Information Commons
 
 ### Changes
