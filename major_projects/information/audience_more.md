@@ -48,7 +48,7 @@ The last piece of the report is a visual representation of the life cycle of you
 
 You could even visualize the impact as an infographic:
 
-![infographic showing the life cycle of a meme](writ350/major_projects/assets/internetmeme_wm.jpg)
+![infographic showing the life cycle of a meme](/writ350/major_projects/assets/internetmeme_wm.jpg)
 
 This section can be as technical or as creative as you want as long as it fulfills the objective of demonstrating the impact of your information design on its audience. Whatever you choose should be original and accompanied by a rationale and explanation. 
 
